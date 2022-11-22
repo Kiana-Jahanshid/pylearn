@@ -1,4 +1,3 @@
-#sentence = "Just an example here move along" 
 sentence = str(input("\nEnter Your Sentence :"))
 
 print(sentence.split())
