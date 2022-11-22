@@ -1,6 +1,6 @@
 import random 
 
-words_bank = ["life" , "computer" , "python" , "machine" , "mobile" , "technology" , "cat" , "programming", "keyboard" , "butterly" , "geek" , ]
+words_bank = ["life" , "computer" , "python" , "machine" , "mobile" , "technology" , "cat" , "programming", "keyboard" , "butterfly" , "geek" , ]
 user_mistakes = 0 
 correct_chars = []
 wrong_chars = []
