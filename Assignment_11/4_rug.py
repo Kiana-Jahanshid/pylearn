@@ -1,4 +1,4 @@
-def rug(n):
+def  Rug(n):
     global arraydim
     arraydim = n 
     array= []
@@ -27,4 +27,4 @@ def show(array):
                 print(array[i][j] , end = "  ")
             print("") 
 
-show(rug(9))
+show(Rug(9))
