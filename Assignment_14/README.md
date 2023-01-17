@@ -1,6 +1,6 @@
-```
-:flying_saucer:  **Interstellar Game**  :rocket:
-```
+
+#:flying_saucer:  **Interstellar Game**  :rocket:
+
 > How to play ?
 
 + for moving spaceship , press "A" key to shift into the left of the screen & press "D" to shift to the right. Or else, you can use defult arrow keys to move spaceship.
