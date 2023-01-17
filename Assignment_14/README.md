@@ -1,5 +1,5 @@
 
-#:flying_saucer:  **Interstellar Game**  :rocket:
+# :flying_saucer:  **Interstellar Game**  :rocket:
 
 > How to play ?
 
