@@ -1,5 +1,5 @@
 ```
-#Interstellar Game 
+Interstellar Game 
 ```
 > How to play ?
 
