@@ -13,7 +13,8 @@
 
 > ### Game Over situations :
 + if your snake passes the game's border 🔲
-+ if your score become zero during the game 0️⃣ 
++ if your score become zero during the game 
+
 ![This is an image](https://github.com/kiana-jahanshid/pylearn/blob/master/Assignment_15/pics/g2_over.JPG)
 
 
