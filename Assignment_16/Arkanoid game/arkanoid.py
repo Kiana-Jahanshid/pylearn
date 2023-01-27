@@ -33,7 +33,7 @@ class Game(arcade.Window):
 
         for i in range(7):
             obj =Bug(35+80*i, 360)
-            self.bugs.append(obj)    
+            self.bugs.append(obj)     
             obj =Worm(35+80*i, 450)
             self.worms.append(obj)        
             
