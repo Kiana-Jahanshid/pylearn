@@ -17,4 +17,4 @@ class Frog(arcade.Sprite) :
 
     def move(self):
         self.center_x += self.change_x * self.speed
-        self.center_y += self.change_y * self.speed
+        self.center_y += self.change_y * self.speed 
