@@ -11,7 +11,7 @@ class Rocket(arcade.Sprite) :
         self.color= c
         self.width= 10
         self.height= 60
-        self.speed= 4
+        self.speed= 3
         self.score= 0
         self.name = n
 
