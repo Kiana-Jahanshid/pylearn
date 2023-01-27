@@ -7,7 +7,7 @@
 + You have 3 lives , and each time your frog passes over it's tiny land , you'll lose one of your lives ❤️.
 
 
-![This is an image](https://github.com/kiana-jahanshid/pylearn/blob/master/Assignment_16/Arkanoid%20game/frog%20game.JPG)
+> ![This is an image](https://github.com/kiana-jahanshid/pylearn/blob/master/Assignment_16/Arkanoid%20game/frog%20game.JPG)
 
  
   
