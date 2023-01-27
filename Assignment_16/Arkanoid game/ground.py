@@ -23,4 +23,4 @@ class Ground(arcade.Sprite):
             if self.center_x < 50 :
                 self.center_x  = 50
             if self.center_x > game.width - 50 :
-                self.center_x = game.width - 50 
+                self.center_x = game.width - 50  
