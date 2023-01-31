@@ -1,7 +1,7 @@
 import sys
 import PySide6
 import math 
-from PySide6.QtWidgets import QApplication , QMainWindow , QWidget
+from PySide6.QtWidgets import QApplication 
 from PySide6.QtUiTools import QUiLoader
 
 
@@ -187,8 +187,7 @@ window.nine.clicked.connect(nine)
 window.zero.clicked.connect(zero)
 window.dot.clicked.connect(dot)
 
-#for keeping window open 
 
 
-
+#keeping window open 
 myapp.exec()
