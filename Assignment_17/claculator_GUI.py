@@ -1,12 +1,9 @@
 import sys
-import PySide6
 import math 
+import PySide6
 from PySide6.QtWidgets import QApplication 
 from PySide6.QtUiTools import QUiLoader
 
-
-error = "ERROR"
-global operand 
 
 def my_multiply():
     global a , b ,c 
@@ -110,8 +107,11 @@ def result(c ):
             window.box.setText(str(c))
         elif operand == "/" :
             b = window.box.text()
-            c = float(a) / float(b)
-            window.box.setText(str(c))            
+            if b == 0 :
+                window.box.setText("ERROR")            
+            elif b != 0 :
+                c = float(a) / float(b)
+                window.box.setText(str(c))            
         elif operand == "%" :
             b = window.box.text()
             c = float(a) % float(b)
@@ -188,6 +188,5 @@ window.zero.clicked.connect(zero)
 window.dot.clicked.connect(dot)
 
 
-
-#keeping window open 
+#for keeping window open 
 myapp.exec()
