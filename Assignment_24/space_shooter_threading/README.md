@@ -13,6 +13,6 @@
 
 + in this version of code ,i have used Thread module for creating enemies , so each of the enemy will be built after 3 sec.
  
-![This is an image](https://github.com/kiana-jahanshid/pylearn/blob/master/Assignment_24/space_shooter/pics/GameScreenShot.JPG)
+![This is an image](https://github.com/kiana-jahanshid/pylearn/blob/master/Assignment_24/space_shooter_threading/pics/GameScreenShot.JPG.png)
 
 
