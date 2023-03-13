@@ -28,7 +28,7 @@ third , For the creation of a thread, we will use the threading module.
 > + 5.7 seconds 
 as shown in the below image :
 
-![This is an image](https://github.com/kiana-jahanshid/pylearn/blob/master/Assignment_24/video_into_audio/report.JPG)
+![This is an image](https://github.com/kiana-jahanshid/pylearn/blob/master/Assignment_24/video_into_audio/report.jpg)
 +
 +
 # conclusion : 
