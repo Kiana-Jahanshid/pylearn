@@ -24,9 +24,9 @@ third , For the creation of a thread, we will use the threading module.
 ## Result 
 > execution time for 5 vodeo files ,with normal converting was : 
 > + 13.32 seconds
-> and execution time using Multi-Treading was :
+> + and execution time using Multi-Treading was :
 > + 5.7 seconds 
-as shown in the below image :
+> + as shown in the below image :
 
 ![This is an image](https://github.com/kiana-jahanshid/pylearn/blob/master/Assignment_24/video_into_audio/report.jpg)
 +
