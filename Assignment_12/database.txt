@@ -1,0 +1,8 @@
+code|type|name|director|imdb|url|year|duration|casts
+1000|movie|interstellar|Christopher Nolan|8.6|www.youtube.com/channel/UCXw-G3eDE9trcvY2sBMM_aA|2014|2:49:00|Matthew McConaughey,Anne Hathaway,Matt Damon
+1001|movie|inception|Christopher Nolan|8.8|www.youtube.com/watch?v=YoHD9XEInc0|2010|2:28:00|Leonardo DiCaprio,Tom Hardy,Joseph Gordon,Cillian Murphy
+1002|movie|The Revenant|Alejandro Gonzalez|8|www.youtube.com/watch?v=LoebZZ8K5N0|2015|2:36:00|Leonardo DiCaprio,Tom Hardy,Will Poulter
+1003|movie|Shutter Island|Martin Scorsese|8.2|www.youtube.com/watch?v=5iaYLCiq5RM|2010|2:18:00|Leonardo DiCaprio,Mark Ruffalo,Ben Kingsley
+1004|movie|Arrival|Denis Villeneuve|7.9|www.youtube.com/watch?v=tFMo3UJ4B4g|2016|1:56:00|Amy Adams,Jeremy Renner,Forest Whitaker
+1005|movie|Gravity|Alfonso cuaron|7.7|www.youtube.com/watch?v=OiTiKOy59o4|2013|1:31:00|Sandra Bullock,George Clooney
+1006|clip|pipper|Alan Barillaro|8.3|www.youtube.com/watch?v=qAIRXIckfMA|2016|0:06:00|Bui Quoc Huy Steve,Piper
